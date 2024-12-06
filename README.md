@@ -1,1 +1,1 @@
-# CUDA_Playground
+# GPU_Playground
